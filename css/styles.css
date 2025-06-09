@@ -1,0 +1,48 @@
+*{
+    color: blueviolet;
+}
+.error{
+    color: red;
+}
+.success{
+    color: green;
+}
+#test{
+    color: yellow;
+}
+.orange{
+    background-color: orange;
+    text-align: center;
+}
+.yellow{
+    background-color: yellow;
+    text-align: end;
+}
+.font-styles{
+    background-color: brown;
+    text-align: center;
+    letter-spacing: 4px;
+    word-spacing: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 40px;
+}
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.box-model{
+    border: 1px solid red;
+    height: 50px;
+    width: 300px;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
